@@ -1,0 +1,9 @@
+[submodule "TFODRPi"]
+	path = TFODRPi
+	url = https://github.com/nicknochnack/TFODRPi
+[submodule "TFODCourse"]
+	path = TFODCourse
+	url = https://github.com/nicknochnack/TFODCourse
+[submodule "TFODApp"]
+	path = TFODApp
+	url = https://github.com/nicknochnack/TFODApp
